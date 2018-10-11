@@ -1,2 +1,1 @@
-# Flinch
-A desk alarm
+# FlinchA desk alarmThis a small electronic box equiped with a moving sensor. Then it is truned on, the alarm will ring if someone approch your desk. Use your RFID key to turn off the alarm when you come back.![image 1](/flinch1.jpg)![image 2](/flinch2.jpg)![image 3](/flinch3.jpg)![image 4](/flinch4.jpg)
